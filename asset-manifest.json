@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/mi-proyecto-react/static/css/main.2544e43a.css",
-    "main.js": "/mi-proyecto-react/static/js/main.864ae5b2.js",
-    "index.html": "/mi-proyecto-react/index.html",
-    "main.2544e43a.css.map": "/mi-proyecto-react/static/css/main.2544e43a.css.map",
-    "main.864ae5b2.js.map": "/mi-proyecto-react/static/js/main.864ae5b2.js.map"
+    "main.css": "/atenciones-front/static/css/main.2544e43a.css",
+    "main.js": "/atenciones-front/static/js/main.864ae5b2.js",
+    "index.html": "/atenciones-front/index.html",
+    "main.2544e43a.css.map": "/atenciones-front/static/css/main.2544e43a.css.map",
+    "main.864ae5b2.js.map": "/atenciones-front/static/js/main.864ae5b2.js.map"
   },
   "entrypoints": [
     "static/css/main.2544e43a.css",
