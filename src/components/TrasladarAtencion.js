@@ -30,7 +30,7 @@ const TrasladarAtencion = ({ atencionId, onTrasladoExitoso }) => {
       focusConfirm: false,
       preConfirm: () => {
         return {
-          nuevo_usuario_id: document.getElementById('nuevo_usuario').value,
+          usuario: document.getElementById('nuevo_usuario').value,
           motivo: document.getElementById('motivo').value,
         };
       }
